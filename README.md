@@ -17,6 +17,8 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 
 
+
+
 # Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
