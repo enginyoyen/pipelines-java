@@ -12,7 +12,6 @@ public class MyTest {
         for (int i = 0; i < 100; i++) {
             Pi.computePi(100000);
         }
-        
     }
 
     @Test
