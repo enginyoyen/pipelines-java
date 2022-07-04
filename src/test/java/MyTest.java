@@ -9,7 +9,7 @@ public class MyTest {
     public void test_method_1() {
         Demo d = new Demo();
         d.DoSomething(true);
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 10; i++) {
             Pi.computePi(100000);
         }
     }
